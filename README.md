@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/StandardNerd/PINGOWebApp.png?label=ready&title=Ready)](https://waffle.io/StandardNerd/PINGOWebApp)
 Welcome to PINGO (former code name: eClickr)
 =====
 
